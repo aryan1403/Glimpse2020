@@ -6,3 +6,41 @@
     color: aliceblue;
     font-size: 25px;
 }
+
+#navItemText {
+    color: aliceblue;
+    font-size: 17px;
+}
+
+#cartBtn {
+    border-radius: 100%;
+    border-color: aliceblue;
+    height: 40px;
+    width: 40px;
+    margin-left: 7px;
+    background: url(https://cdn1.vectorstock.com/i/1000x1000/60/55/shopping-cart-icon-in-flat-style-symbol-vector-20616055.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#accountBtn {
+    border-radius: 100%;
+    border-color: aliceblue;
+    height: 40px;
+    width: 40px;
+    margin-left: 7px;
+    background: url(https://cdn1.vectorstock.com/i/1000x1000/60/55/shopping-cart-icon-in-flat-style-symbol-vector-20616055.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
+
+#searchBtn {
+    border-radius: 100%;
+    border-color: aliceblue;
+    height: 40px;
+    width: 40px;
+    margin-left: 7px;
+    background: url(https://cdn1.vectorstock.com/i/1000x1000/60/55/shopping-cart-icon-in-flat-style-symbol-vector-20616055.jpg);
+    background-size: cover;
+    background-attachment: fixed;
+}
