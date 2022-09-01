@@ -1,0 +1,35 @@
+#registeremailbtn {
+    background-color: #f55353;
+    border-color: #f55353;
+    margin-top: 20px;
+}
+
+#registerpassbtn {
+    background-color: #f55353;
+    border-color: #f55353;
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#registerotpbtn {
+    margin-top: 20px;
+    margin-left: 10px;
+}
+
+#registerform {
+    margin-top: 3%;
+    margin-left: auto;
+    margin-right: auto;
+
+    width: 75%;
+
+}
+
+#registertxt {
+    margin-bottom: 40px;
+}
+
+#changeEmailbtn {
+    margin-top: 20px;
+    margin-right: 10px;
+}
