@@ -1,0 +1,60 @@
+#homebannerdiv {
+    width: 100%;
+    margin-top: 200px;
+}
+
+#homebannerimgr {
+    float: right;
+    width: 45%;
+    height: 340px;
+    margin-right: 60px;
+    margin-left: 30px;
+}
+
+#homebannerimgl {
+    float: left;
+    width: 45%;
+    height: 340px;
+    margin-right: 60px;
+    margin-left: 30px;
+}
+
+#homebannerhead {
+    margin-left: 60px;
+}
+
+#homebannertxtr {
+    margin-top: 20px;
+    margin-left: 60px;
+}
+
+#homebannertxtl {
+    margin-top: 20px;
+    margin-left: 60px;
+    margin-right: 30px;
+}
+
+#homebannerbtnr {
+    margin-left: 60px;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    height: 45px;
+    width: 120px;
+    font-size: larger;
+    margin-top: 50px;
+    font-weight: 500;
+}
+
+#homebannerbtnl {
+    margin-right: 30px;
+    float: inline-end;
+    background-color: white;
+    border-color: black;
+    border-width: 1px;
+    height: 45px;
+    width: 120px;
+    font-size: larger;
+    font-weight: 500;
+    margin-top: 50px;
+}

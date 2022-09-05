@@ -1,0 +1,29 @@
+#container {
+    height: 30%;
+    width: 20%;
+    position: relative;
+    display: table-cell;
+  }
+#image {
+    position: absolute;
+    width: 250px;
+    height: 250px;
+    left: 0;
+    top: 0;
+
+    margin-left: 25px;
+}
+#text {
+    z-index: 100;
+    position: absolute;
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+    background-color: white;
+    color: black;
+    width: 35%;
+    height: max-content;
+    text-align: center;
+    top: 200px;
+    left: 37%;
+}

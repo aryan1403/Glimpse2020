@@ -1,0 +1,14 @@
+#dealbannerdiv {
+    height: 70%;
+    width: 100%;
+}
+
+#dealbannerbtn {
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+    height: 40px;
+    border-color: black;
+    border-radius: 10%;
+
+}

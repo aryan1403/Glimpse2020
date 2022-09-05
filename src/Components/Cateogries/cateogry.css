@@ -1,0 +1,12 @@
+#catdiv {
+    width: 70%;
+    height: fit-content;
+    display: table;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 10px;
+}
+
+#catlabel {
+    margin-right: 25px;
+}
